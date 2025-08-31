@@ -1,0 +1,38 @@
+#title{
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    color: white;
+    
+    
+}
+img{
+    width: 200px;
+    margin-left: 10px;
+    margin-top: -85px;
+    
+    
+}
+form{
+    font-size: 30px;
+    color: white;
+    padding-top: 20px;
+}
+input{
+    font-size: 30px;
+}
+
+    
+
+button{
+    font-size: 40px;
+    border-radius: 8px;
+    
+}
+body{
+    background: linear-gradient(to right,  gray, white);
+    
+}
+button:hover{
+    background-color: darkgray;
+}
